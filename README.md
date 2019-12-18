@@ -20,3 +20,6 @@ Testing is mandatory
 
 ## CHANGES
 changes done from here
+
+## CHANGES2
+changes from the new feature branch2
